@@ -1,8 +1,8 @@
 // Define players by category
 const players = {
     A: ['Yusuf', 'Zubair'],    // Best players
-    B: ['Malik', 'Adnan'],     // Good players
-    C: ['Junaid', 'Ammar'],    // Average players
+    B: ['Malik', 'Junaid'],     // Good players
+    C: ['Adnan', 'Ammar'],    // Average players
     D: ['Faizan', 'Umar']      //  players
 };
 
